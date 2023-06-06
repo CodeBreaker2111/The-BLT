@@ -1,6 +1,8 @@
 import sys
 import os
 
+#My code is like awful so there may be alot of errors. I've only seen erors with if statements and sometimes it doesnt print anything to the terminal but there are probably more. I'm working on fixing them.
+
 code = []
 
 def create_file(path):
