@@ -21,7 +21,6 @@ def run(path):
     with open(path, "r") as f:
         data = f.read()
         code_lines = [line.lstrip(";") for line in data.split("\n") if line.startswith(";")]
-        print(code_lines)
         
         line = 0
 
