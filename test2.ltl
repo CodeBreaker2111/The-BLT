@@ -1,0 +1,16 @@
+This will test if statements
+
+;var 0 1
+;var 1 2
+
+;var 2 "Just_to_test_that_the_program_is_working"
+
+;if = 0 1 2
+    ;print Yay it worked!
+    ;break
+
+;print 2
+
+;var 0 2
+
+;goto 3

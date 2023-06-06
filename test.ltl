@@ -1,0 +1,17 @@
+This is a simple hello world program and variables
+
+;var 0 "Hello_World!"
+
+;var 1 "Heyo!_now_we_got_two_variables!"
+
+;print Not a variable
+
+;print 0
+
+;print 1
+
+;break if = 0 Hello_yall._;)
+
+;var 0 "Hello_yall._;)"
+
+;goto 3
